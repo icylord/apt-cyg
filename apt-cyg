@@ -66,7 +66,7 @@ function findworkspace()
 {
   # default working directory and mirror
 
-  mirror=http://mirrors.163.com/cygwin/
+  mirror=http://mirrors.163.com/cygwin
   cache=/setup
 
   # work wherever setup worked last, if possible
